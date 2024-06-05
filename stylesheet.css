@@ -65,7 +65,7 @@ body{
 .home{
     height: 100vh;
     display: flex; 
-    background: url(/Portfolio/images/Designer.jpeg) no-repeat;
+    background: url(../images/Designer.jpeg) no-repeat;
     background-position: right;
     background-size: contain;
     align-items: center;
